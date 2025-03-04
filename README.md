@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>
+> This project is deprecated and is read-only for historical context only.
+
 Thank you for using Looker's Salesforce Block. Below, we've provided a brief overview of the Block components. For assistance implementing any of the included patterns, please reach out to your assigned Looker Analyst or Looker Support.
 
 ### About This Block
